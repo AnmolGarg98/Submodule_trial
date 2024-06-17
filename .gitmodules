@@ -1,0 +1,6 @@
+[submodule "module1/mod1/KNN_image-classification"]
+	path = module1/mod1/KNN_image-classification
+	url = https://github.com/AnmolGarg98/KNN_image-classification.git
+[submodule "module1/mod2/GISLR"]
+	path = module1/mod2/GISLR
+	url = https://github.com/AnmolGarg98/GISLR.git
